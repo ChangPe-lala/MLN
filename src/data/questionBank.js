@@ -11,7 +11,7 @@ export const questionBank = {
     // 1 — Cái riêng & Cái chung — ĐÁP ÁN ĐÚNG: DÀI
     {
       // Câu hỏi này tập trung vào việc nhận diện và cân bằng giữa lợi ích cá nhân (Cái riêng) và lợi ích tập thể (Cái chung). Đáp án đúng sẽ là phương án thể hiện sự tôn trọng cả hai yếu tố, trong khi đáp án sai sẽ là phương án hy sinh quá mức một bên để chạy theo bên kia.
-      title: "Chọn môn tự chọn",
+      title: "12345",
       description:
         'Nhóm bạn rủ đăng ký cùng 1 môn tự chọn "cho vui". Nhưng môn đó không liên quan chuyên ngành bạn.',
       options: [
