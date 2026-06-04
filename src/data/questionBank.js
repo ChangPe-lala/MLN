@@ -563,7 +563,7 @@ export const questionBank = {
     {
       title: 'Nhóm trưởng “siêu nhiệt tình”',
       description: 'Một bạn trong nhóm luôn nhắn tin rất năng nổ, họp đầy đủ và nói ý tưởng cực hay. Nhưng đến gần deadline thì phần việc của bạn ấy vẫn chưa hoàn thành.',
-      options: [
+      options: [ // Đáp án 1: Sai lầm lớn nhất là bị cuốn theo Hiện tượng (bề ngoài năng nổ) mà chưa nhìn vào Bản chất (công việc thực tế chưa được xử lý). Đáp án 2: Phản ứng cảm tính quá nhanh, chưa tìm hiểu rõ nguyên nhân đã kết luận. Đáp án 3: Nhìn vào Bản chất vấn đề, vừa công bằng vừa giữ tinh thần nhóm.
         {
           text: '“Bạn ấy nhiệt tình mà, chắc đang bận thôi”, rồi tiếp tục chờ mà không trao đổi rõ ràng.',
           effect: { nhinBanChat: -20, tuDuyToanDien: -10 },
