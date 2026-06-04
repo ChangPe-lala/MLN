@@ -9,8 +9,8 @@ export const questionBank = {
   // ==================== POOL DỄ (20 câu) ====================
   easy: [
     // 1 — Cái riêng & Cái chung — ĐÁP ÁN ĐÚNG: DÀI
-    // Trang 1
     {
+      // Câu hỏi này tập trung vào việc nhận diện và cân bằng giữa lợi ích cá nhân (Cái riêng) và lợi ích tập thể (Cái chung). Đáp án đúng sẽ là phương án thể hiện sự tôn trọng cả hai yếu tố, trong khi đáp án sai sẽ là phương án hy sinh quá mức một bên để chạy theo bên kia.
       title: "Chọn môn tự chọn",
       description:
         'Nhóm bạn rủ đăng ký cùng 1 môn tự chọn "cho vui". Nhưng môn đó không liên quan chuyên ngành bạn.',
